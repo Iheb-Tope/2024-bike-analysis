@@ -1,0 +1,7 @@
+# Dependencies for Q3 2024 Bike-Share Analysis
+
+duckdb>=1.3.0
+pandas>=1.5.0
+matplotlib>=3.5.0
+jupyterlab>=3.0.0
+notebook>=6.0.0
